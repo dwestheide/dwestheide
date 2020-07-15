@@ -8,7 +8,7 @@ I care about empathy and inclusivity, and about the ethical, social, and ecologi
 
 - [The Neophyte's Guide to Scala](https://leanpub.com/theneophytesguidetoscala)
 - [Scala from Scratch: Exploration](https://leanpub.com/scala-from-scratch-exploration)
-- [Scala from Scratch: Understanding](https://leanpub.com/scala-from-scratch-understanding
+- [Scala from Scratch: Understanding](https://leanpub.com/scala-from-scratch-understanding)
 
 📔 I have a [blog](https://danielwestheide.com/blog/) where I write about functional programming and other things related to making software. Here are a few of the most popular articles:
 
